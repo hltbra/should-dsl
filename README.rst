@@ -40,3 +40,9 @@ A nice example of exceptions would be::
     ...
     ShouldNotSatisfied: 'should' does include 'oul'
 
+
+
+.. image:: https://d2weczhvl823v0.cloudfront.net/hltbra/should-dsl/trend.png
+   :alt: Bitdeli badge
+   :target: https://bitdeli.com/free
+
